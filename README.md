@@ -1,2 +1,3 @@
 # resolusii
 resolusi kedepan
+- a
