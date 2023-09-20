@@ -1,0 +1,2 @@
+# resolusii
+resolusi kedepan
